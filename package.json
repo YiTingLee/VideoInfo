@@ -4,8 +4,11 @@
   "description": "show video information using electron",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "electron": "electron ."
   },
   "author": "Eric Lee",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^10.1.3"
+  }
 }
