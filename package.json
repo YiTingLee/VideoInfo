@@ -9,6 +9,7 @@
   "author": "Eric Lee",
   "license": "ISC",
   "dependencies": {
-    "electron": "^10.1.3"
+    "electron": "^10.1.3",
+    "fluent-ffmpeg": "^2.1.2"
   }
 }
